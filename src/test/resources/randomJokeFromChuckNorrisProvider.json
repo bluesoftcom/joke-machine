@@ -1,0 +1,11 @@
+{
+  "categories": [
+    "music"
+  ],
+  "created_at": "2020-01-05 13:42:19.104863",
+  "icon_url": "https://assets.chucknorris.host/img/avatar/chuck-norris.png",
+  "id": "hd0l0jcrtwyjcjgmr7timw",
+  "updated_at": "2020-01-05 13:42:19.104863",
+  "url": "https://api.chucknorris.io/jokes/hd0l0jcrtwyjcjgmr7timw",
+  "value": "Chuck Norris can touch MC Hammer."
+}
